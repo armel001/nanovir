@@ -19,7 +19,7 @@ source ~/.bashrc
 ## 2. Cloner et installer
 
 ```bash
-git clone https://github.com/your-org/nanovir.git
+git clone https://github.com/armel001/nanovir.git
 cd nanovir
 
 # Créer l'environnement (mamba est plus rapide que conda)

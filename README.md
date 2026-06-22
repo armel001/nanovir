@@ -33,7 +33,7 @@ Compatible avec tous les flowcells (R9.4.1, R10.4.1…) et tous les virus ayant 
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/your-org/nanovir.git
+git clone https://github.com/armel001/nanovir.git
 cd nanovir
 ```
 
