@@ -1,0 +1,35 @@
+# Résultats
+results_*/
+results/
+
+# Configs avec de vraies données (garder uniquement l'exemple)
+config/*.sh
+!config/config.example.sh
+
+# Données de séquençage (ne jamais commiter)
+*.fastq
+*.fastq.gz
+*.fasta
+*.fa
+*.fq
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.vcf.gz.csi
+*.bed
+
+# Logs
+*.log
+logs/
+
+# Python / Medaka
+__pycache__/
+*.pyc
+.medaka/
+
+# Éditeurs
+.vscode/
+*.swp
+*~
+.DS_Store

@@ -1,0 +1,20 @@
+name: nanovir
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - minimap2>=2.26
+  - samtools>=1.17
+  - bcftools>=1.17
+  - mosdepth>=0.3.8
+  - nanostat>=1.6.0
+  - chopper>=0.7.0
+  - python=3.10
+  - pip
+  - pip:
+      # CPU : pip install medaka
+      # GPU (CUDA 11) : pip install "medaka[cuda11]"
+      # GPU (CUDA 12) : pip install "medaka[cuda12]"
+      - medaka
