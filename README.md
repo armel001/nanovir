@@ -222,5 +222,6 @@ MIT — voir [LICENSE](LICENSE)
 ## Contact
 
 **Thibaut Armel Cherif Gnimadi**
-GitHub : [github.com/armel001](https://github.com/armel001)
+GitHub : [github.com/armel001](https://github.com/armel001) 
+Mail   : [armel.001@live.fr]
 # nanovir
